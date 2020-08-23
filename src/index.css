@@ -66,7 +66,7 @@ form {
 }
 
 .home-screen-container .home-screen-cards-container .home-screen-card .home-screen-card-stock .home-screen-card-details {
-  flex: 1 0 40%;
+  flex: 1 1 40%;
 }
 
 .live-screen-container {
